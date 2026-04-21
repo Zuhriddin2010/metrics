@@ -17,7 +17,7 @@ It is advised to open a [`💬 discussion`](https://github.com/lowlighter/metric
 ## 🤝 Accepted contributions
 
 The following contributions are accepted:
-<table>
+<table>   
   <tr>
     <th>Section</th>
     <th>Changes</th>
