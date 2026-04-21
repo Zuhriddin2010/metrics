@@ -3,7 +3,7 @@
 
 # Vendored files
 source/templates/** linguist-vendored
-source/app/web/statics/style.vars.css linguist-vendored
+source/app/web/statics/style.vars.css linguist-vendored   
 
 # Hidden files
 .github/** -linguist-detectable
